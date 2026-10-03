@@ -1,4 +1,4 @@
 ### Coding Challenges - Learning
 
 ## Tools Built
-- [ccwc] (ccwc/)
+- [ccwc](ccwc/ccwc.c)
