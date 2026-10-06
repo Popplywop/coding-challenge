@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/jpopple/projects/coding-challenge/jsonparse",
+    "arguments": ["gcc", "-Wall", "-Wextra", "-Wpedantic", "-std=c99", "-I.", "-g", "-fsanitize=address,undefined", "test_runner.c"],
+    "file": "test_runner.c"
+  },
+  {
+    "directory": "/home/jpopple/projects/coding-challenge/jsonparse",
+    "arguments": ["gcc", "-Wall", "-Wextra", "-Wpedantic", "-std=c99", "-I.", "-g", "-DJSON_PARSER_IMPLEMENTATION", "-fsyntax-only", "json_parser.h"],
+    "file": "json_parser.h"
+  }
+]
